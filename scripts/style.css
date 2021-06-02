@@ -1,0 +1,8 @@
+#root {
+  position: fixed;
+}
+
+.container {
+  position: fixed;
+  outline-width: 10px;
+}
